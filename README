@@ -1,1 +1,8 @@
+# PushMeBaby
+
 You can use this app during iOS Push Notification development to push notifications on your device from your Mac.
+
+# Instructions:
+
+1. Clone or download this project then open it with XCode
+2. Drag your aps.cer file into the Resources folder
